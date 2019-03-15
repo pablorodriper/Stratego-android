@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Tablero.unity
+  isLoaded: 1
+  isActive: 1
